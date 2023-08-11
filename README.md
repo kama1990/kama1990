@@ -1,8 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 --!>
 
 <div> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans+&weight=700&size=24&pause=1000&color=B28EF7&center=true&lines=Hello+World+!!+;I+am+a+Kamila;I+am+a+Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans+&weight=700&size=24&pause=1000&color=B28EF7&center=true&lines=Hello+there+!!+;I+am+Kamila;I+am+a+Python+Developer)](https://git.io/typing-svg)
 
 </div>
 
