@@ -2,7 +2,7 @@
 
 <div> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&size=40&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B+:wave:;I+am+Kamila+:boom:+;:heartbeat:+I+am+a+Python+Developer&color=#c70dff)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans+&weight=700&size=24&pause=1000&color=B28EF7&center=true&lines=Hello+World+!!+;I+am+a+Kamila;I+am+a+Python+Developer)](https://git.io/typing-svg)
 
 </div>
 
