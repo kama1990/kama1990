@@ -1,6 +1,7 @@
-<p>
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ysabeau+Infant&pause=1000&color=059570C3&multiline=true&width=435&lines=Hello%2C+I'm+Kamila;Always+on+time+and+ready+to+take+on+new+challenges+in+new+projects)](https://git.io/typing-svg)
-</p>
+
 <br />
 
 ### About me
