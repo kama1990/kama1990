@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ysabeau+Infant&pause=1000&color=059570C3&multiline=true&width=435&lines=Hello%2C+I'm+Kamila)](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ysabeau+Infant&pause=1000&color=0B9D73B9&multiline=true&width=435&lines=Always+on+time+and+ready)](https://git.io/typing-svg)
-<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ysabeau+Infant&pause=1000&color=0B9D73B9&multiline=true&width=435&lines=to+take+on+new+challenges+in+new+projects.)](https://git.io/typing-svg)
 
 ### About me
