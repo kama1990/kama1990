@@ -1,12 +1,18 @@
 
+<p align="center"><img width="80%" alt="Hello, I'm Kamila. Always on time and ready to take on new challenges in new projects." src="./assets/gh-readme-header.png" /></a></p>
 
-<div> 
+<br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans+&weight=700&size=24&pause=1000&color=B28EF7&center=true&lines=Hello+there+!!+;I+am+Kamila;I+am+a+Python+Developer)](https://git.io/typing-svg)
+### About me
+- 🏆 I have just completed the course "Python from the beginning"
+- 🌱 I’m currently improving my knowledge through Codewars and UDEMY 
+- 👯 I’m looking to collaborate on with the best, because I want to improve my knowledge from the best and I want to be the best 💪
+- 💡 If I had to choose one product to eat for the rest of my life, it would be potatoes
+- ⚡ Fun fact: I can't swim and I dived 15 meters deep 🤿
 
-</div>
+### How to reach me:
 
-
+<a href="https://www.linkedin.com/in/kamila-czajkowska/" target="_blank"><img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!--
 **kama1990/kama1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
